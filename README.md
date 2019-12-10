@@ -3,11 +3,14 @@ Titanic Data Science Solutions
 
 This notebook is the solution to the Titanic: MACHINE LEARNING for Disaster Workflow stages The competition solution workflow goes through seven stages described in the Data Science Solutions book.  
 
-Question or problem definition. 
 -Acquire training and testing data.
+
 -Wrangle, prepare, cleanse the data. Analyze, identify patterns, and explore the data. 
+
 -Model, predict and solve the problem. 
+
 -Visualize, report, and present the problem solving steps and final solution. 
+
 -Submiting the results. 
 
 1. Problem Statement: Competition sites like Kaggle define the problem to solve or questions to ask while providing the datasets for training your data science model and testing the model results against a test dataset. The question or problem definition for Titanic Survival competition is described here at Kaggle.  
