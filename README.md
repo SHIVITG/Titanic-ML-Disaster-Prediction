@@ -1,7 +1,6 @@
 # Titanic-ML-Disaster-Prediction
-Titanic Data Science Solutions
 
-This notebook is the solution to the Titanic: MACHINE LEARNING for Disaster Workflow stages The competition solution workflow goes through seven stages described in the Data Science Solutions book.  
+This project is the solution to the Titanic: MACHINE LEARNING for Disaster Workflow stages The competition solution workflow goes through seven stages described in the Data Science Solutions book.  
 
 -Acquire training and testing data.
 
